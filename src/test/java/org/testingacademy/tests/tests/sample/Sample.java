@@ -1,4 +1,4 @@
-package org.testingacademy.tests;
+package org.testingacademy.tests.tests.sample;
 
 public class Sample {
     public static void main(String[] args) {
